@@ -2,6 +2,7 @@
 Web scraping of IMDB website of the Top 100 movies of all time.
 
 Step - 1: Visit the website of IMDB we want to scrape.
+
 Step - 2: Inspecting the Page - The data is extracted in raw HTML format, which must be carefully parsed and reduce the noise from the raw data.
 Step - 3: Writing a code to extract the information, provide relevant information, and run the code.
 Step - 4: After extracting the data through our code, we'll store the data in the excel file and organize it in excel for better use.
