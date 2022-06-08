@@ -16,3 +16,5 @@ The library we'll use here are:
 
 2:  BEAUTIFULSOUP : Its a Python library that is used to pull data of HTML and XML files. It is mainly designed for web scrapping.
 
+3:  OPENPYXL : The Openpyxl library is used to write or read the data in the excel file.
+
