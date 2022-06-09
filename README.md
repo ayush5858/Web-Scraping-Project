@@ -1,5 +1,5 @@
 # Web-Scraping
-Web scraping of IMDB website of the Top 100 movies of all timeand putting it in an excel file.
+Web scraping of IMDB website of the Top 100 movies of all time and putting it in an excel file.
 
 Step - 1: Visit the website of IMDB we want to scrape.
 
